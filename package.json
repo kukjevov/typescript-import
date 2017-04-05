@@ -1,0 +1,12 @@
+{
+    "name": "typescript-import",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "Marek Bukovsky <marek.bukovsky@asseco-ce.com>",
+    "license": "ISC",
+    "dependencies": 
+    {
+        "@angular/core": "4.0.1"
+    }
+}
